@@ -1,0 +1,9 @@
+mysql_port: 3306
+mysql_bind_address: "0.0.0.0"
+mysql_language: '/usr/share/mysql/'
+mysql_ppa: ''
+mysql_apt_key: ''
+mysql_packages:
+  - mysql-server
+  - mysql-client
+  - python-mysqldb
